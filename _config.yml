@@ -24,9 +24,9 @@ author:
   avatar           : "headshot.jpeg"
   name             : "Wes Gurnee"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student at MIT working on mechanistic interpretability and AI alignment."
+  bio              : "Interpretability Scientist"
   # location         : "Earth"
-  employer         : "MIT"
+  employer         : "Anthropic"
   uri              : # URL
   email            : "wesg@mit.edu" 
 

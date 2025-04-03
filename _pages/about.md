@@ -16,6 +16,8 @@ I completed my PhD at MIT where I worked with [Dimitris Bertsimas](https://www.d
 ## Selected Publications
 See [Google Scholar](https://scholar.google.com/citations?hl=en&user=5sxXSfwAAAAJ&view_op=list_works) for a full and up-to-date list.
 
+* **On the Biology of a Large Language Model** <br>by Jack Lindsey, *Wes Gurnee*, Emmanuel Ameisen, Brian Chen, Adam Pearce, Nicholas L. Turner, Craig Citro, (many others), and Joshua Batson <br>Transformer Circuits Thread [[Paper]](https://transformer-circuits.pub/2025/attribution-graphs/biology.html) [[Blog]](https://www.anthropic.com/research/tracing-thoughts-language-model)
+* **Circuit Tracing: Revealing Computational Graphs in Language Models** <br>by Emmanuel Ameisen, Jack Lindsey, Adam Pearce, *Wes Gurnee*, Nicholas L. Turner, Brian Chen, Craig Citro, (many others), and Joshua Batson <br>Transformer Circuits Thread [[Paper]](https://transformer-circuits.pub/2025/attribution-graphs/methods.html) [[Blog]](https://www.anthropic.com/research/tracing-thoughts-language-model)
 * **Refusal in Language Models is Mediated by a Single Direction** <br>by Andy Arditi, Oscar Obeso, Aaquib Syed, Daniel Paleka, Nina Panickssery, *Wes Gurnee*, Neel Nanda <br>Appeared at NeurIPS 2024 [[arXiv]](https://arxiv.org/pdf/2406.11717)
 * **Not All Language Model Features are Linear** <br>by Joshua Engels, Eric J Michaud, Isaac Liao, *Wes Gurnee*, Max Tegmark <br>Appearing at ICLR 2025 [[arXiv]](https://arxiv.org/abs/2405.14860)
 * **Confidence Regulation Neurons in Language Models** <br>by Alessandro Stolfo, Ben Wu, *Wes Gurnee*, Yonatan Belinkov, Xingyi Song, Mrinmaya Sachan, Neel Nanda <br>Appeared at NeurIPS 2024 [[arXiv]](https://arxiv.org/pdf/2406.16254)

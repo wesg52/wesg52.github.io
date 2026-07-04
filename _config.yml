@@ -12,7 +12,7 @@ title                    : "Wes Gurnee"
 title_separator          : "-"
 name                     : &name "Wes Gurnee"
 description              : &description "Interpretability Scientist at Anthropic"
-url                      : https://www.wesg.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wesg.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wesg52/wesg52.github.io"
 

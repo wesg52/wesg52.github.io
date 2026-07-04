@@ -28,7 +28,8 @@ author:
   # location         : "Earth"
   employer         : "Anthropic"
   uri              : # URL
-  email            : "wesg@mit.edu" 
+  email            : # intentionally blank to avoid scrapers; email_hint is shown as plain text instead
+  email_hint       : "first name + last initial at anthropic dot com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

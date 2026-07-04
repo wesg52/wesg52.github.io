@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher on the [interpretability team](https://transformer-circuits.pub/) at [Anthropic](https://www.anthropic.com/) where I try to reverse engineer how language models compose microscopic building blocks into higher level computational circuits.
+I am a researcher on [Anthropic](https://www.anthropic.com/)'s [interpretability team](https://transformer-circuits.pub/). I study how Claude's thoughts are organized so that we can read and steer them.
 
 <!-- I am a third year PhD student researching language model interpretability at the MIT ORC advised by [Dimitris Bertsimas](https://www.dbertsim.mit.edu/). I am interested in developing a mechanistic understanding of neural networks and using this to better monitor, control, and align advanced AI systems. I am fortunate to also collaborate with [Neel Nanda](https://www.neelnanda.io/about) and [Max Tegmark](https://tegmark.org/) and am graciously supported by an Open Philanthropy early career grant. -->
 
